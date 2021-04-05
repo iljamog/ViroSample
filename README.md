@@ -24,8 +24,12 @@ Soovitatud ka [Ngrok](https://ngrok.com), parema ühenduse loomiseks või ühend
 ### Alustamiseks
 
 Kloonida antud repo: `https://github.com/iljamog/ViroSample.git`.
+
 Navigeerida kausta, kuhu oli kloonitud repo ning jooksutada `npm install` käsk.
+
 Avage mobiiliseadmes Viro Media rakendus, libistage vasak paneel välja ja valige menüüst "Enter Testbed".
+
 Sisestage enda masina IP või ngroki URL-i väljund (xxxxxx.ngrok.io) tekstiväljale ja vajutage 'GO'.
+
 Nüüdseks peaks rakendus töötama teie mobiili seadmes.
 
