@@ -19,7 +19,7 @@ AR (Android)
     1.OSX/Linux computer
     2.An ARCore supported device
 
-Soovitatud ka nkrok, parema ühenduse loomiseks või ühenduse probleemide vältimiseks
+Soovitatud ka [Ngrok](https://ngrok.com), parema ühenduse loomiseks või ühenduse probleemide vältimiseks
 
 ### Alustamiseks
 
